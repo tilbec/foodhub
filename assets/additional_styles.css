@@ -23,13 +23,35 @@ div.navy-back {
   background-color: #3232AA;
 }
 
+.navbar-default {
+  background-color: #F63440;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-link {
+  color: white;
+}
+
+i.white {
+  color: white;
+}
+
+
+
 label.white {
+  color: white;
+}
+
+a.white {
   color: white;
 }
 
 h4.list-head {
   color: white;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
   line-height: 0.8;
 }
