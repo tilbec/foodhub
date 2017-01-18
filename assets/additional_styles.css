@@ -7,9 +7,59 @@ h1, h2, h3, h4 {
   font-weight: 700;
 }
 
+p.small {
+  font-size: 14px;
+}
+
+p.large {
+  font-size: 21px;
+}
+
+div.gray-back {
+  background-color: #EEEEEE;
+}
+
+div.navy-back {
+  background-color: #3232AA;
+}
+
+label.white {
+  color: white;
+}
+
+h4.list-head {
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 0.8;
+}
+
+ul.custom-list {
+  line-height: 2.2;
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+}
+
 .navbar-brand {
   font-family: "Passion One";
   font-size: xx-large;
+}
+
+.who-delivers {
+  background: url("images/main-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
+}
+
+.download-apps {
+  background: url("images/download-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
 }
 
 /* My standard vertical spacing classes */
