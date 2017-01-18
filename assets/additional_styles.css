@@ -15,6 +15,10 @@ p.large {
   font-size: 21px;
 }
 
+div.icon-styled {
+  margin-top: 15px;
+}
+
 div.gray-back {
   background-color: #EEEEEE;
 }
@@ -40,9 +44,12 @@ i.white {
 }
 
 
-
 label.white {
   color: white;
+}
+
+label.small {
+  font-size: 14px;
 }
 
 a.white {
